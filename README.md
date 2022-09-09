@@ -5,7 +5,14 @@
   <p align="center"><b>Location: London, UK :earth_africa:</b></p>
   <p align="center">I'm an enthusiastic developer with a decade of experience in Data Analysis looking to move into full-time development!</p>
   <p>
-    A first-class graduate of Software Engineering. I have a passion for game development :video_game:, front-end web development	:spider_web:, user experience :thumbsup: and working with amazing teams :sun_with_face:! 
+    A first-class graduate of Software Engineering. My passions are:
+    <br/>
+    <br/>:white_circle:    Front-End Development	:spider_web:
+    <br/>:white_circle:    Software Engineering, Algorithms and Data Structures	:brain:
+    <br/>:white_circle:    Data Analysis and Big Data :microscope:
+    <br/>:white_circle:    Game Dev :video_game:
+    <br/>:white_circle:    UX/UI :thumbsup: 
+    <br/>:white_circle:    Working with Amazing Teams :sun_with_face:! 
   </p>
   <p>
     I have worked for over 10 years in data analysis in various industries, including electric vehicles, retail and construction! I have spent the majority of my career working with Excel and Big Data, but I'm on a journey to become a developer, and loving every second. Have a look at my favourite technologies!
@@ -13,7 +20,7 @@
   <h2 align="center">
     The Things I Love :relaxed:
   </h2>
-  <p align="center"><b>Front-End Stuff :computer:</b></p>
+  <p align="center"><b>Front-End Stack :computer:</b></p>
   <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -22,7 +29,7 @@
     <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </p>
   <p align="center">_______</p>
-  <p align="center"><b>Dev Favourites :hearts:</b></p>
+  <p align="center"><b>Game Dev Favourites :hearts:</b></p>
   <p align="center">
     <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="50" height="40"/>
     <img src="https://i.redd.it/31b2ii8hchi31.jpg" alt="C++" width="40" height="40"/>
