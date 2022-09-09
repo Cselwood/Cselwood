@@ -13,7 +13,7 @@
   <h2 align="center">
     The Things I Love :relaxed:
   </h2>
-  <p align="center"><b>Front-End Stack :computer:</b></p>
+  <p align="center"><b>Front-End Stuff :computer:</b></p>
   <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -22,7 +22,7 @@
     <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </p>
   <p align="center">_______</p>
-  <p align="center"><b>Game Dev Favourites :hearts:</b></p>
+  <p align="center"><b>Dev Favourites :hearts:</b></p>
   <p align="center">
     <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="50" height="40"/>
     <img src="https://i.redd.it/31b2ii8hchi31.jpg" alt="C++" width="40" height="40"/>
