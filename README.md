@@ -15,7 +15,7 @@
     <br/>:white_circle:    Working with Amazing Teams :sun_with_face:! 
   </p>
   <p>
-    I have worked for over 10 years in programming, business analysis and data engineering in various industries, including electric vehicles, retail and construction! I have spent the majority of my career working with Excel, SAP, Visual Basic, JavaScript and ReactJS, but I'm on a journey to become a developer, and loving every second. Have a look at my favourite technologies!
+    I have worked for over 10 years in programming, business analysis and data engineering in various industries, including electric vehicles, retail and construction! I have spent the majority of my career working with Excel, SAP, Visual Basic, JavaScript and ReactJS. I'm on a journey to work in game development full-time. Have a look at my favourite technologies!
   </p>
   <h2 align="center">
     Skills
