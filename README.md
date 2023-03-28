@@ -5,8 +5,6 @@
   <p align="center"><b>Location: London, UK :earth_africa:</b></p>
   <p align="center">I'm an enthusiastic developer with a decade of experience in operations, development and analytics looking to move into full-time development!</p>
   <p>
-    A first-class graduate of Software Engineering. My passions are:
-    <br/>
     <br/>:white_circle:    Developer & Software Engineer :spider_web:
     <br/>:white_circle:    Game Dev, Designer and Indie Studio Founder :video_game:
     <br/>:white_circle:    Data Analysis, Engineering and Business :microscope:
