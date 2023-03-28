@@ -3,7 +3,7 @@
     Hello there, I'm Chris! :space_invader:
   </h1>
   <p align="center"><b>Location: London, UK :earth_africa:</b></p>
-  <p align="center">I'm an enthusiastic developer with a decade of experience in Data Analysis looking to move into full-time development!</p>
+  <p align="center">I'm an enthusiastic developer with a decade of experience in operations, development and analytics looking to move into full-time development!</p>
   <p>
     A first-class graduate of Software Engineering. My passions are:
     <br/>
