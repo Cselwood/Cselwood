@@ -5,7 +5,6 @@
   <p align="center"><b>Location: London, UK :earth_africa:</b></p>
   <p align="center">I'm an enthusiastic developer with a decade of experience in operations, development and analytics looking to move into full-time development!</p>
   <p>
-   [![CSelwood's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSelwood)](https://github.com/anuraghazra/github-readme-stats)
     <br/>
     <br/>:white_circle:    Developer & Software Engineer :spider_web:
     <br/>:white_circle:    Game Dev, Designer and Indie Studio Founder :video_game:
