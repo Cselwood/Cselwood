@@ -32,8 +32,8 @@
   <p align="center">_______</p>
   <p align="center"><b>Game Dev Favourites :hearts:</b></p>
   <p align="center">
-    <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="50" height="40"/>
+    <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-    <img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" alt="blender" width="30" height="40"/>
+    <img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" alt="blender" width="40" height="40"/>
   </p>
 </div>
