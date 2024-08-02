@@ -27,8 +27,10 @@
   </p>
   <p align="center">_______</p>
   <p align="center">Currently Learning and/or Refreshing!</p>
-     <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg" alt="python" width="40" height="40"/>
+  <p align="center">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg" alt="python" width="40" height="40"/>
      <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" alt="kali" width="40" height="40"/>
+  </p>
   <p align="center">_______</p>
   <p align="center"><b>Game Dev Favourites :game_die:</b></p>
   <p align="center">
