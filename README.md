@@ -26,6 +26,10 @@
     <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </p>
   <p align="center">_______</p>
+  <p align="center">Currently Learning and/or Refreshing!</p>
+     <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg" alt="python" width="40" height="40"/>
+     <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" alt="kali" width="40" height="40"/>
+  <p align="center">_______</p>
   <p align="center"><b>Game Dev Favourites :game_die:</b></p>
   <p align="center">
     <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="40" height="40"/>
