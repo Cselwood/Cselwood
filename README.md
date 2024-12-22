@@ -7,7 +7,7 @@
   <p>This September I will be beginning my new journey into my passion; <b>Cyber Security</b>, by studying for my MSc. I couldn't be more excited to dedicate my time and skills to making the digital world a safer place.</p>
   <p>
     <br/>
-    <br/>:white_circle:    <b>Cyber Security</b> and Ethical Hacking :heart:
+    <br/>:white_circle:    <b>Cyber Security</b>:heart:
     <br/>:white_circle:    Developer & Software Engineer :spider_web:
     <br/>:white_circle:    Data, Engineering and Business :microscope:
     <br/>:white_circle:    Hobbyist Game Dev and Indie Studio Founder :video_game:
