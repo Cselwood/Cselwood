@@ -10,8 +10,7 @@
     <br/>:white_circle:    <b>Cyber Security</b>:heart:
     <br/>:white_circle:    Developer & Software Engineer :spider_web:
     <br/>:white_circle:    Data Analysis :microscope:
-    <br/>:white_circle:    Hobbyist Game Dev and Indie Studio Founder :video_game:
-    <br/>:white_circle:    Working with Amazing Teams! :sun_with_face: 
+    <br/>:white_circle:    Hobbyist Game Dev :video_game:
   </p>
   <h2 align="center">
     Skills
