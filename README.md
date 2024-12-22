@@ -9,7 +9,7 @@
     <br/>
     <br/>:white_circle:    <b>Cyber Security</b>:heart:
     <br/>:white_circle:    Developer & Software Engineer :spider_web:
-    <br/>:white_circle:    Data, Engineering and Business :microscope:
+    <br/>:white_circle:    Data Analysis :microscope:
     <br/>:white_circle:    Hobbyist Game Dev and Indie Studio Founder :video_game:
     <br/>:white_circle:    Working with Amazing Teams! :sun_with_face: 
   </p>
