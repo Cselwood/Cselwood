@@ -34,7 +34,7 @@
   <p align="center"><b>Game Dev Favourites :game_die:</b></p>
   <p align="center">
     <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="50" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png?20150903192614" alt="Unity" width="80" height="40" style="filter: invert(100%)"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png?20150903192614" alt="Unity" width="90" height="40"/>
     <img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" alt="blender" width="30" height="40"/>
   </p>
 </div>
